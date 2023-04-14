@@ -5,3 +5,7 @@ This is a test app repo using Go Lang.
 - Postgres Connection
 - QR Code Creator
 - Basic HTTP Server
+
+```bash
+go run main.go
+```
