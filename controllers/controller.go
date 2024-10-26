@@ -12,7 +12,7 @@ import (
 
 // Random Controllers
 func Index(res http.ResponseWriter, req *http.Request) {
-	fmt.Fprintf(res, "Welcome to the index")
+	fmt.Fprintf(res, "Welcome to the index v2")
 }
 
 func GetPost(res http.ResponseWriter, req *http.Request) {
